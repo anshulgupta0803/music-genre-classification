@@ -1,2 +1,2 @@
-# ipl-match-prediction
-IPL match prediction using Machine Learning
+# Music Genre Classification
+A Machine Learning approach for Music Genre Classification
