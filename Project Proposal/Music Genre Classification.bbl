@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{Li:2003:CSC:860435.860487}
+Tao Li, Mitsunori Ogihara, and Qi~Li.
+\newblock A comparative study on content-based music genre classification.
+\newblock In {\em Proceedings of the 26th Annual International ACM SIGIR
+  Conference on Research and Development in Informaion Retrieval}, SIGIR '03,
+  pages 282--289, New York, NY, USA, 2003. ACM.
+
+\bibitem{Oord:2013:DCM:2999792.2999907}
+A\"{a}ron van~den Oord, Sander Dieleman, and Benjamin Schrauwen.
+\newblock Deep content-based music recommendation.
+\newblock In {\em Proceedings of the 26th International Conference on Neural
+  Information Processing Systems}, NIPS'13, pages 2643--2651, USA, 2013. Curran
+  Associates Inc.
+
+\bibitem{HomburgEtAl_2005_ABencDataFor}
+Helge Homburg, Ingo Mierswa, Bülent Möller, Katharina Morik, and Michael
+  Wurst.
+\newblock A benchmark dataset for audio classification and clustering.
+\newblock In {\em Proceedings of the 6th International Conference on Music
+  Information Retrieval}, London, UK, September 11-15 2005.
+\newblock \url{http://ismir2005.ismir.net/proceedings/2117.pdf}.
+
+\bibitem{GTZAN}
+G.~Tzanetakis and P.~Cook.
+\newblock Gtzan genre collection.
+\newblock \url{http://marsyas.info/downloads/datasets.html}.
+
+\end{thebibliography}

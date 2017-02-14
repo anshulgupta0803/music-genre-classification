@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Music Genre Classification.aux
+The style file: unsrt.bst
+Database file #1: References.bib
+You've used 4 entries,
+            1791 wiz_defined-function locations,
+            479 strings with 4648 characters,
+and the built_in function-call counts, 1207 in all, are:
+= -- 118
+> -- 47
+< -- 2
++ -- 17
+- -- 13
+* -- 68
+:= -- 175
+add.period$ -- 15
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 61
+empty$ -- 117
+format.name$ -- 13
+if$ -- 290
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 24
+num.names$ -- 4
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 38
+stack$ -- 0
+substring$ -- 72
+swap$ -- 24
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 10
+width$ -- 5
+write$ -- 52
