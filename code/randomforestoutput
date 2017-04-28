@@ -1,0 +1,488 @@
+(387, 13) (200, 13)
+training Started
+Train Data: misclassifed: 179  accuracy: 53.746770025839794
+Test Data: misclassifed: 110  accuracy: 45.0
+(208, 13) (200, 13)
+training Started
+Train Data: misclassifed: 103  accuracy: 50.48076923076923
+Test Data: misclassifed: 120  accuracy: 40.0
+(43, 12) (200, 12)
+training Started
+Train Data: misclassifed: 28  accuracy: 34.883720930232556
+Test Data: misclassifed: 152  accuracy: 24.0
+(576, 18) (200, 18)
+training Started
+Train Data: misclassifed: 236  accuracy: 59.02777777777778
+Test Data: misclassifed: 108  accuracy: 46.0
+(120, 6) (200, 6)
+training Started
+Train Data: misclassifed: 68  accuracy: 43.333333333333336
+Test Data: misclassifed: 129  accuracy: 35.5
+(69, 14) (200, 14)
+training Started
+Train Data: misclassifed: 41  accuracy: 40.57971014492754
+Test Data: misclassifed: 148  accuracy: 26.0
+(575, 5) (200, 5)
+training Started
+Train Data: misclassifed: 300  accuracy: 47.82608695652174
+Test Data: misclassifed: 125  accuracy: 37.5
+(251, 14) (200, 14)
+training Started
+Train Data: misclassifed: 122  accuracy: 51.39442231075697
+Test Data: misclassifed: 114  accuracy: 43.0
+(50, 5) (200, 5)
+training Started
+Train Data: misclassifed: 31  accuracy: 38.0
+Test Data: misclassifed: 148  accuracy: 26.0
+(12, 14) (200, 14)
+training Started
+Train Data: misclassifed: 7  accuracy: 41.666666666666664
+Test Data: misclassifed: 170  accuracy: 15.0
+(160, 5) (200, 5)
+training Started
+Train Data: misclassifed: 94  accuracy: 41.25
+Test Data: misclassifed: 137  accuracy: 31.5
+(438, 7) (200, 7)
+training Started
+Train Data: misclassifed: 211  accuracy: 51.82648401826484
+Test Data: misclassifed: 117  accuracy: 41.5
+(579, 8) (200, 8)
+training Started
+Train Data: misclassifed: 273  accuracy: 52.84974093264249
+Test Data: misclassifed: 106  accuracy: 47.0
+(439, 15) (200, 15)
+training Started
+Train Data: misclassifed: 193  accuracy: 56.03644646924829
+Test Data: misclassifed: 119  accuracy: 40.5
+(223, 9) (200, 9)
+training Started
+Train Data: misclassifed: 114  accuracy: 48.87892376681614
+Test Data: misclassifed: 127  accuracy: 36.5
+(80, 17) (200, 17)
+training Started
+Train Data: misclassifed: 46  accuracy: 42.5
+Test Data: misclassifed: 131  accuracy: 34.5
+(559, 16) (200, 16)
+training Started
+Train Data: misclassifed: 238  accuracy: 57.42397137745975
+Test Data: misclassifed: 107  accuracy: 46.5
+(28, 13) (200, 13)
+training Started
+Train Data: misclassifed: 19  accuracy: 32.142857142857146
+Test Data: misclassifed: 163  accuracy: 18.5
+(478, 4) (200, 4)
+training Started
+Train Data: misclassifed: 284  accuracy: 40.58577405857741
+Test Data: misclassifed: 134  accuracy: 33.0
+(71, 3) (200, 3)
+training Started
+Train Data: misclassifed: 50  accuracy: 29.577464788732396
+Test Data: misclassifed: 165  accuracy: 17.5
+(435, 3) (200, 3)
+training Started
+Train Data: misclassifed: 272  accuracy: 37.47126436781609
+Test Data: misclassifed: 148  accuracy: 26.0
+(309, 10) (200, 10)
+training Started
+Train Data: misclassifed: 153  accuracy: 50.48543689320388
+Test Data: misclassifed: 110  accuracy: 45.0
+(344, 18) (200, 18)
+training Started
+Train Data: misclassifed: 150  accuracy: 56.395348837209305
+Test Data: misclassifed: 109  accuracy: 45.5
+(493, 11) (200, 11)
+training Started
+Train Data: misclassifed: 217  accuracy: 55.98377281947262
+Test Data: misclassifed: 121  accuracy: 39.5
+(41, 13) (200, 13)
+training Started
+Train Data: misclassifed: 27  accuracy: 34.146341463414636
+Test Data: misclassifed: 175  accuracy: 12.5
+(139, 9) (200, 9)
+training Started
+Train Data: misclassifed: 75  accuracy: 46.0431654676259
+Test Data: misclassifed: 139  accuracy: 30.5
+(506, 10) (200, 10)
+training Started
+Train Data: misclassifed: 257  accuracy: 49.209486166007906
+Test Data: misclassifed: 119  accuracy: 40.5
+(268, 14) (200, 14)
+training Started
+Train Data: misclassifed: 135  accuracy: 49.62686567164179
+Test Data: misclassifed: 117  accuracy: 41.5
+(444, 16) (200, 16)
+training Started
+Train Data: misclassifed: 203  accuracy: 54.27927927927928
+Test Data: misclassifed: 119  accuracy: 40.5
+(469, 14) (200, 14)
+training Started
+Train Data: misclassifed: 206  accuracy: 56.07675906183369
+Test Data: misclassifed: 116  accuracy: 42.0
+(76, 16) (200, 16)
+training Started
+Train Data: misclassifed: 41  accuracy: 46.05263157894737
+Test Data: misclassifed: 143  accuracy: 28.5
+(138, 12) (200, 12)
+training Started
+Train Data: misclassifed: 79  accuracy: 42.7536231884058
+Test Data: misclassifed: 123  accuracy: 38.5
+(97, 9) (200, 9)
+training Started
+Train Data: misclassifed: 64  accuracy: 34.02061855670103
+Test Data: misclassifed: 150  accuracy: 25.0
+(131, 6) (200, 6)
+training Started
+Train Data: misclassifed: 69  accuracy: 47.32824427480916
+Test Data: misclassifed: 129  accuracy: 35.5
+(387, 8) (200, 8)
+training Started
+Train Data: misclassifed: 192  accuracy: 50.3875968992248
+Test Data: misclassifed: 115  accuracy: 42.5
+(423, 11) (200, 11)
+training Started
+Train Data: misclassifed: 206  accuracy: 51.30023640661938
+Test Data: misclassifed: 119  accuracy: 40.5
+(552, 11) (200, 11)
+training Started
+Train Data: misclassifed: 235  accuracy: 57.427536231884055
+Test Data: misclassifed: 112  accuracy: 44.0
+(206, 9) (200, 9)
+training Started
+Train Data: misclassifed: 110  accuracy: 46.601941747572816
+Test Data: misclassifed: 129  accuracy: 35.5
+(344, 14) (200, 14)
+training Started
+Train Data: misclassifed: 160  accuracy: 53.48837209302326
+Test Data: misclassifed: 116  accuracy: 42.0
+(567, 14) (200, 14)
+training Started
+Train Data: misclassifed: 244  accuracy: 56.96649029982363
+Test Data: misclassifed: 114  accuracy: 43.0
+(17, 12) (200, 12)
+training Started
+Train Data: misclassifed: 11  accuracy: 35.294117647058826
+Test Data: misclassifed: 183  accuracy: 8.5
+(496, 6) (200, 6)
+training Started
+Train Data: misclassifed: 242  accuracy: 51.20967741935484
+Test Data: misclassifed: 118  accuracy: 41.0
+(421, 3) (200, 3)
+training Started
+Train Data: misclassifed: 246  accuracy: 41.56769596199525
+Test Data: misclassifed: 127  accuracy: 36.5
+(373, 10) (200, 10)
+training Started
+Train Data: misclassifed: 175  accuracy: 53.083109919571044
+Test Data: misclassifed: 124  accuracy: 38.0
+(125, 12) (200, 12)
+training Started
+Train Data: misclassifed: 71  accuracy: 43.2
+Test Data: misclassifed: 154  accuracy: 23.0
+(140, 16) (200, 16)
+training Started
+Train Data: misclassifed: 76  accuracy: 45.714285714285715
+Test Data: misclassifed: 114  accuracy: 43.0
+(575, 12) (200, 12)
+training Started
+Train Data: misclassifed: 268  accuracy: 53.391304347826086
+Test Data: misclassifed: 116  accuracy: 42.0
+(274, 5) (200, 5)
+training Started
+Train Data: misclassifed: 144  accuracy: 47.44525547445255
+Test Data: misclassifed: 126  accuracy: 37.0
+(151, 16) (200, 16)
+training Started
+Train Data: misclassifed: 67  accuracy: 55.629139072847686
+Test Data: misclassifed: 111  accuracy: 44.5
+(280, 10) (200, 10)
+training Started
+Train Data: misclassifed: 134  accuracy: 52.142857142857146
+Test Data: misclassifed: 128  accuracy: 36.0
+(217, 12) (200, 12)
+training Started
+Train Data: misclassifed: 110  accuracy: 49.30875576036866
+Test Data: misclassifed: 121  accuracy: 39.5
+(356, 2) (200, 2)
+training Started
+Train Data: misclassifed: 231  accuracy: 35.1123595505618
+Test Data: misclassifed: 142  accuracy: 29.0
+(554, 10) (200, 10)
+training Started
+Train Data: misclassifed: 262  accuracy: 52.707581227436826
+Test Data: misclassifed: 114  accuracy: 43.0
+(92, 17) (200, 17)
+training Started
+Train Data: misclassifed: 48  accuracy: 47.82608695652174
+Test Data: misclassifed: 136  accuracy: 32.0
+(192, 7) (200, 7)
+training Started
+Train Data: misclassifed: 90  accuracy: 53.125
+Test Data: misclassifed: 124  accuracy: 38.0
+(533, 10) (200, 10)
+training Started
+Train Data: misclassifed: 245  accuracy: 54.03377110694184
+Test Data: misclassifed: 117  accuracy: 41.5
+(194, 9) (200, 9)
+training Started
+Train Data: misclassifed: 94  accuracy: 51.54639175257732
+Test Data: misclassifed: 130  accuracy: 35.0
+(297, 5) (200, 5)
+training Started
+Train Data: misclassifed: 168  accuracy: 43.43434343434343
+Test Data: misclassifed: 140  accuracy: 30.0
+(18, 4) (200, 4)
+training Started
+Train Data: misclassifed: 12  accuracy: 33.333333333333336
+Test Data: misclassifed: 167  accuracy: 16.5
+(490, 16) (200, 16)
+training Started
+Train Data: misclassifed: 215  accuracy: 56.12244897959184
+Test Data: misclassifed: 104  accuracy: 48.0
+(476, 5) (200, 5)
+training Started
+Train Data: misclassifed: 252  accuracy: 47.05882352941177
+Test Data: misclassifed: 118  accuracy: 41.0
+(110, 16) (200, 16)
+training Started
+Train Data: misclassifed: 57  accuracy: 48.18181818181818
+Test Data: misclassifed: 137  accuracy: 31.5
+(302, 3) (200, 3)
+training Started
+Train Data: misclassifed: 168  accuracy: 44.370860927152314
+Test Data: misclassifed: 129  accuracy: 35.5
+(57, 11) (200, 11)
+training Started
+Train Data: misclassifed: 31  accuracy: 45.6140350877193
+Test Data: misclassifed: 137  accuracy: 31.5
+(565, 17) (200, 17)
+training Started
+Train Data: misclassifed: 245  accuracy: 56.63716814159292
+Test Data: misclassifed: 111  accuracy: 44.5
+(343, 7) (200, 7)
+training Started
+Train Data: misclassifed: 192  accuracy: 44.02332361516035
+Test Data: misclassifed: 142  accuracy: 29.0
+(44, 18) (200, 18)
+training Started
+Train Data: misclassifed: 26  accuracy: 40.90909090909091
+Test Data: misclassifed: 145  accuracy: 27.5
+(520, 12) (200, 12)
+training Started
+Train Data: misclassifed: 242  accuracy: 53.46153846153846
+Test Data: misclassifed: 106  accuracy: 47.0
+(513, 4) (200, 4)
+training Started
+Train Data: misclassifed: 267  accuracy: 47.953216374269005
+Test Data: misclassifed: 127  accuracy: 36.5
+(468, 10) (200, 10)
+training Started
+Train Data: misclassifed: 233  accuracy: 50.21367521367522
+Test Data: misclassifed: 124  accuracy: 38.0
+(385, 5) (200, 5)
+training Started
+Train Data: misclassifed: 200  accuracy: 48.05194805194805
+Test Data: misclassifed: 114  accuracy: 43.0
+(563, 17) (200, 17)
+training Started
+Train Data: misclassifed: 241  accuracy: 57.19360568383659
+Test Data: misclassifed: 111  accuracy: 44.5
+(579, 13) (200, 13)
+training Started
+Train Data: misclassifed: 245  accuracy: 57.685664939550946
+Test Data: misclassifed: 113  accuracy: 43.5
+(486, 10) (200, 10)
+training Started
+Train Data: misclassifed: 240  accuracy: 50.617283950617285
+Test Data: misclassifed: 124  accuracy: 38.0
+(325, 9) (200, 9)
+training Started
+Train Data: misclassifed: 163  accuracy: 49.84615384615385
+Test Data: misclassifed: 132  accuracy: 34.0
+(555, 9) (200, 9)
+training Started
+Train Data: misclassifed: 266  accuracy: 52.072072072072075
+Test Data: misclassifed: 113  accuracy: 43.5
+(276, 13) (200, 13)
+training Started
+Train Data: misclassifed: 128  accuracy: 53.6231884057971
+Test Data: misclassifed: 120  accuracy: 40.0
+(32, 8) (200, 8)
+training Started
+Train Data: misclassifed: 23  accuracy: 28.125
+Test Data: misclassifed: 172  accuracy: 14.0
+(175, 3) (200, 3)
+training Started
+Train Data: misclassifed: 117  accuracy: 33.142857142857146
+Test Data: misclassifed: 165  accuracy: 17.5
+(87, 2) (200, 2)
+training Started
+Train Data: misclassifed: 63  accuracy: 27.586206896551722
+Test Data: misclassifed: 165  accuracy: 17.5
+(590, 12) (200, 12)
+training Started
+Train Data: misclassifed: 259  accuracy: 56.101694915254235
+Test Data: misclassifed: 105  accuracy: 47.5
+(367, 7) (200, 7)
+training Started
+Train Data: misclassifed: 215  accuracy: 41.416893732970024
+Test Data: misclassifed: 143  accuracy: 28.5
+(284, 4) (200, 4)
+training Started
+Train Data: misclassifed: 148  accuracy: 47.88732394366197
+Test Data: misclassifed: 130  accuracy: 35.0
+(14, 15) (200, 15)
+training Started
+Train Data: misclassifed: 8  accuracy: 42.857142857142854
+Test Data: misclassifed: 167  accuracy: 16.5
+(555, 13) (200, 13)
+training Started
+Train Data: misclassifed: 222  accuracy: 60.0
+Test Data: misclassifed: 114  accuracy: 43.0
+(393, 8) (200, 8)
+training Started
+Train Data: misclassifed: 180  accuracy: 54.19847328244275
+Test Data: misclassifed: 121  accuracy: 39.5
+(74, 16) (200, 16)
+training Started
+Train Data: misclassifed: 35  accuracy: 52.7027027027027
+Test Data: misclassifed: 142  accuracy: 29.0
+(317, 11) (200, 11)
+training Started
+Train Data: misclassifed: 162  accuracy: 48.89589905362776
+Test Data: misclassifed: 125  accuracy: 37.5
+(290, 18) (200, 18)
+training Started
+Train Data: misclassifed: 135  accuracy: 53.44827586206897
+Test Data: misclassifed: 113  accuracy: 43.5
+(76, 5) (200, 5)
+training Started
+Train Data: misclassifed: 47  accuracy: 38.1578947368421
+Test Data: misclassifed: 147  accuracy: 26.5
+(271, 8) (200, 8)
+training Started
+Train Data: misclassifed: 132  accuracy: 51.291512915129154
+Test Data: misclassifed: 122  accuracy: 39.0
+(355, 5) (200, 5)
+training Started
+Train Data: misclassifed: 201  accuracy: 43.38028169014085
+Test Data: misclassifed: 140  accuracy: 30.0
+(222, 5) (200, 5)
+training Started
+Train Data: misclassifed: 125  accuracy: 43.693693693693696
+Test Data: misclassifed: 132  accuracy: 34.0
+(275, 3) (200, 3)
+training Started
+Train Data: misclassifed: 176  accuracy: 36.0
+Test Data: misclassifed: 136  accuracy: 32.0
+(115, 10) (200, 10)
+training Started
+Train Data: misclassifed: 57  accuracy: 50.43478260869565
+Test Data: misclassifed: 146  accuracy: 27.0
+(191, 13) (200, 13)
+training Started
+Train Data: misclassifed: 95  accuracy: 50.261780104712045
+Test Data: misclassifed: 122  accuracy: 39.0
+(264, 4) (200, 4)
+training Started
+Train Data: misclassifed: 160  accuracy: 39.39393939393939
+Test Data: misclassifed: 145  accuracy: 27.5
+(38, 15) (200, 15)
+training Started
+Train Data: misclassifed: 23  accuracy: 39.473684210526315
+Test Data: misclassifed: 147  accuracy: 26.5
+(211, 5) (200, 5)
+training Started
+Train Data: misclassifed: 113  accuracy: 46.44549763033175
+Test Data: misclassifed: 136  accuracy: 32.0
+(459, 7) (200, 7)
+training Started
+Train Data: misclassifed: 249  accuracy: 45.751633986928105
+Test Data: misclassifed: 131  accuracy: 34.5
+(22, 18) (200, 18)
+training Started
+Train Data: misclassifed: 16  accuracy: 27.272727272727273
+Test Data: misclassifed: 178  accuracy: 11.0
+(447, 10) (200, 10)
+training Started
+Train Data: misclassifed: 213  accuracy: 52.348993288590606
+Test Data: misclassifed: 125  accuracy: 37.5
+(178, 6) (200, 6)
+training Started
+Train Data: misclassifed: 93  accuracy: 47.752808988764045
+Test Data: misclassifed: 118  accuracy: 41.0
+(576, 17) (200, 17)
+training Started
+Train Data: misclassifed: 228  accuracy: 60.416666666666664
+Test Data: misclassifed: 105  accuracy: 47.5
+(291, 7) (200, 7)
+training Started
+Train Data: misclassifed: 157  accuracy: 46.04810996563574
+Test Data: misclassifed: 138  accuracy: 31.0
+(329, 3) (200, 3)
+training Started
+Train Data: misclassifed: 206  accuracy: 37.38601823708207
+Test Data: misclassifed: 138  accuracy: 31.0
+(300, 16) (200, 16)
+training Started
+Train Data: misclassifed: 135  accuracy: 55.0
+Test Data: misclassifed: 121  accuracy: 39.5
+(323, 15) (200, 15)
+training Started
+Train Data: misclassifed: 146  accuracy: 54.79876160990712
+Test Data: misclassifed: 111  accuracy: 44.5
+(111, 7) (200, 7)
+training Started
+Train Data: misclassifed: 62  accuracy: 44.14414414414414
+Test Data: misclassifed: 138  accuracy: 31.0
+(135, 14) (200, 14)
+training Started
+Train Data: misclassifed: 76  accuracy: 43.7037037037037
+Test Data: misclassifed: 136  accuracy: 32.0
+(171, 18) (200, 18)
+training Started
+Train Data: misclassifed: 88  accuracy: 48.538011695906434
+Test Data: misclassifed: 116  accuracy: 42.0
+(251, 7) (200, 7)
+training Started
+Train Data: misclassifed: 132  accuracy: 47.41035856573705
+Test Data: misclassifed: 125  accuracy: 37.5
+(304, 3) (200, 3)
+training Started
+Train Data: misclassifed: 187  accuracy: 38.48684210526316
+Test Data: misclassifed: 145  accuracy: 27.5
+(174, 4) (200, 4)
+training Started
+Train Data: misclassifed: 104  accuracy: 40.229885057471265
+Test Data: misclassifed: 142  accuracy: 29.0
+(559, 15) (200, 15)
+training Started
+Train Data: misclassifed: 222  accuracy: 60.28622540250447
+Test Data: misclassifed: 105  accuracy: 47.5
+(61, 7) (200, 7)
+training Started
+Train Data: misclassifed: 39  accuracy: 36.0655737704918
+Test Data: misclassifed: 145  accuracy: 27.5
+(111, 10) (200, 10)
+training Started
+Train Data: misclassifed: 66  accuracy: 40.54054054054054
+Test Data: misclassifed: 139  accuracy: 30.5
+(362, 14) (200, 14)
+training Started
+Train Data: misclassifed: 171  accuracy: 52.76243093922652
+Test Data: misclassifed: 113  accuracy: 43.5
+(366, 15) (200, 15)
+training Started
+Train Data: misclassifed: 165  accuracy: 54.91803278688525
+Test Data: misclassifed: 130  accuracy: 35.0
+(445, 3) (200, 3)
+training Started
+Train Data: misclassifed: 303  accuracy: 31.910112359550563
+Test Data: misclassifed: 160  accuracy: 20.0
+(77, 10) (200, 10)
+training Started
+Train Data: misclassifed: 40  accuracy: 48.05194805194805
+Test Data: misclassifed: 135  accuracy: 32.5
+(51, 18) (200, 18)
+training Started
+Train Data: misclassifed: 33  accuracy: 35.294117647058826
+Test Data: misclassifed: 150  accuracy: 25.0
