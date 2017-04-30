@@ -249,9 +249,16 @@ We also made an attempt at classification of genres using the Power Spectrogram 
 
 From Table \ref{tab:spectrograms} we can see that the spectrograms are quite distinct from each other. Each genre has a particular rhythm which is captured in this image. We tried to classify the genres by training a Convolutional neural network on these images.
 
-We used tensorflow library for creating the LeNet model. But due to some logical errors, we were unable to complete it within time.
+We used tensorflow library for creating the model. Since the data set is very small, the accuracy achieved by our model is very poor. The model is as follows:
+\begin{itemize}
+    \item Image size is 200 x 200 x 4
+    \item 2 pairs of Convolutional and Max Pooling Layers
+    \item A fully connected hidden layer of size 128
+    \item A fully connected output layer of size 10
+    \item Batch Gradient Descent learning rate is $1e^{-4}$ and batch size of 50
+\end{itemize}
 
-Each spectrogram is a 341 x 224 x 4 image.
+The accuracy on test data is \textbf{0.228924}.
 
 \section{Observations and Conclusions}
 The original paper \cite{GTZAN} achieved the accuracy of 61\% using Timbral Features as well as Rhythmic Features of the audio files.
